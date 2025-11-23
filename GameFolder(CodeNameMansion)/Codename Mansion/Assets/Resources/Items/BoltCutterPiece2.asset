@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2d48ba31655f4a4e8839550b17c3fd6, type: 3}
+  m_Name: BoltCutterPiece2
+  m_EditorClassIdentifier: 
+  Item:
+    ID: 13
+    Name: BoltCutter_Piece2
+    Description: I should try to fix it.
+    CanBeCombined: 1
+    CombinedItemId: 12
+    resultItemId: 10
+    Icon: {fileID: 21300000, guid: 5cad667d9e8419543839751a131b671d, type: 3}
+    itemObject: {fileID: 6279804702784183461, guid: b5540a6d2c3ad8a498b6e28302c51c9f, type: 3}

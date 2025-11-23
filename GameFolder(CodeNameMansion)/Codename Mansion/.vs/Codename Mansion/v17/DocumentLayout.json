@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\assets\\scripts\\camera\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\assets\\scripts\\ui_2\\endcredits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_2\\endcredits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\assets\\scripts\\ui_2\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_2\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|c:\\workspace\\codename\\fg24_gp2_north_war_team09\\codename mansion\\assets\\scripts\\ui_2\\letterskipscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_2\\letterskipscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|c:\\workspace\\codename\\fg24_gp2_north_war_team09\\codename mansion\\assets\\scripts\\audiomanager\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\assets\\scripts\\ui_2\\optionsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_2\\optionsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|c:\\workspace\\codename\\fg24_gp2_north_war_team09\\codename mansion\\assets\\scripts\\ui_2\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_2\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\assets\\scripts\\ui_2\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_2\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|c:\\workspace\\codename\\fg24_gp2_north_war_team09\\codename mansion\\assets\\scripts\\enemy_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CE1A63-F299-2A45-39B7-198CD984A1F6}|FMODUnity.csproj|c:\\workspace\\codename\\fg24_gp2_north_war_team09\\codename mansion\\assets\\plugins\\fmod\\src\\runtimeutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CE1A63-F299-2A45-39B7-198CD984A1F6}|FMODUnity.csproj|solutionrelative:assets\\plugins\\fmod\\src\\runtimeutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\assets\\scenes\\individual scenes\\isak\\camerashift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\individual scenes\\isak\\camerashift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\assets\\scripts\\player_character\\playercommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player_character\\playercommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\assets\\scripts\\inventory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\assets\\scripts\\inventory\\dragableimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\dragableimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\assets\\scripts\\ui_2\\pausedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_2\\pausedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Library\\PackageCache\\com.unity.render-pipelines.universal\\Runtime\\UniversalRenderPipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal\\Runtime\\UniversalRenderPipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\assets\\scripts\\items\\elevator_key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\items\\elevator_key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\assets\\scripts\\items\\itembase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830BFB7-9D00-2B8B-3A77-05160DF3F635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\items\\itembase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\AudioManager\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager\\AudioManager.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\AudioManager\\AudioManager.cs [Read Only]",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager\\AudioManager.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T12:33:01.667Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StateMachine.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\UI_2\\StateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_2\\StateMachine.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\UI_2\\StateMachine.cs [Read Only]",
+              "RelativeToolTip": "Assets\\Scripts\\UI_2\\StateMachine.cs [Read Only]",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:59:13.686Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enemy_Movement.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\Enemy_Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy_Movement.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\Enemy_Movement.cs [Read Only]",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy_Movement.cs [Read Only]",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:55:11.214Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LetterSkipScript.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\UI_2\\LetterSkipScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_2\\LetterSkipScript.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\UI_2\\LetterSkipScript.cs [Read Only]",
+              "RelativeToolTip": "Assets\\Scripts\\UI_2\\LetterSkipScript.cs [Read Only]",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:48:32.044Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RuntimeUtils.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Plugins\\FMOD\\src\\RuntimeUtils.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\FMOD\\src\\RuntimeUtils.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Plugins\\FMOD\\src\\RuntimeUtils.cs [Read Only]",
+              "RelativeToolTip": "Assets\\Plugins\\FMOD\\src\\RuntimeUtils.cs [Read Only]",
+              "ViewState": "AgIAAD4CAAAAAAAAAIBJwFECAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T20:29:23.948Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerCommands.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\Player_Character\\PlayerCommands.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player_Character\\PlayerCommands.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\Player_Character\\PlayerCommands.cs [Read Only]",
+              "RelativeToolTip": "Assets\\Scripts\\Player_Character\\PlayerCommands.cs [Read Only]",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:28:09.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CameraShift.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scenes\\Individual Scenes\\Isak\\CameraShift.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Individual Scenes\\Isak\\CameraShift.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scenes\\Individual Scenes\\Isak\\CameraShift.cs [Read Only]",
+              "RelativeToolTip": "Assets\\Scenes\\Individual Scenes\\Isak\\CameraShift.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:35:39.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\Inventory\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\Inventory.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\Inventory\\Inventory.cs [Read Only]",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\Inventory.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:28:13.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DragableImage.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\Inventory\\DragableImage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\DragableImage.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\Inventory\\DragableImage.cs [Read Only]",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\DragableImage.cs [Read Only]",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwFQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:26:54.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OptionsMenu.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\UI_2\\OptionsMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_2\\OptionsMenu.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\UI_2\\OptionsMenu.cs [Read Only]",
+              "RelativeToolTip": "Assets\\Scripts\\UI_2\\OptionsMenu.cs [Read Only]",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:44:46.498Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PausedState.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\UI_2\\PausedState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_2\\PausedState.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\UI_2\\PausedState.cs [Read Only]",
+              "RelativeToolTip": "Assets\\Scripts\\UI_2\\PausedState.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:31:35.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\UI_2\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_2\\MainMenu.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\UI_2\\MainMenu.cs [Read Only]",
+              "RelativeToolTip": "Assets\\Scripts\\UI_2\\MainMenu.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:30:47.709Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EndCredits.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\UI_2\\EndCredits.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_2\\EndCredits.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\UI_2\\EndCredits.cs [Read Only]",
+              "RelativeToolTip": "Assets\\Scripts\\UI_2\\EndCredits.cs [Read Only]",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:02:42.52Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UniversalRenderPipeline.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Library\\PackageCache\\com.unity.render-pipelines.universal\\Runtime\\UniversalRenderPipeline.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal\\Runtime\\UniversalRenderPipeline.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Library\\PackageCache\\com.unity.render-pipelines.universal\\Runtime\\UniversalRenderPipeline.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal\\Runtime\\UniversalRenderPipeline.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:47:33.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Elevator_Key.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\Items\\Elevator_Key.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Items\\Elevator_Key.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\Items\\Elevator_Key.cs [Read Only]",
+              "RelativeToolTip": "Assets\\Scripts\\Items\\Elevator_Key.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:27:34.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemBase.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\Items\\ItemBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Items\\ItemBase.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\Items\\ItemBase.cs [Read Only]",
+              "RelativeToolTip": "Assets\\Scripts\\Items\\ItemBase.cs [Read Only]",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:27:11.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\Camera\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\Door.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\Camera\\Door.cs [Read Only]",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\Door.cs [Read Only]",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwFEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:55:56.899Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\UI_2\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_2\\UIManager.cs",
+              "ToolTip": "C:\\Workspace\\CodeName\\FG24_GP2_North_War_Team09\\Codename Mansion\\Assets\\Scripts\\UI_2\\UIManager.cs [Read Only]",
+              "RelativeToolTip": "Assets\\Scripts\\UI_2\\UIManager.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:13:47.916Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

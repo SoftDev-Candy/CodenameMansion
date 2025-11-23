@@ -1,0 +1,14 @@
+Unloaded_Pistol|A gun? At least it isn’t loaded.
+AmmoBox|Some ammo, guess the gun won’t be empty for long.
+Elevator_Key|A key? Wonder what this opens.
+Lighter|An old lighter, could be useful in the dark.
+Big_Egg| A massive egg...
+Heavy Cream| Who knew Uncle was into baking? 
+Flour|Ready to rise. Just needs the right mix.
+Baking_Bowl|Used for mixing.
+Cake|That is one heavy cake...
+Candle|A candle, might come in handy.
+Ritual Room Key|Another key?
+BoltCutter_Piece1|Half of a rusty bolt cutter.
+BoltCutter_Piece2|Half of a rusty bolt cutter. 
+Ritual_Room_Key|Weird ritual key. Maybe I can use it for a locked door?

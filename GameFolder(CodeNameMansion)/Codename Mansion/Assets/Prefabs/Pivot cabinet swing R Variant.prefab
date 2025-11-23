@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2191969683459704600
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1251478164370057221, guid: b6d8477749bf0f140a042457b333fa69, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1251478164370057221, guid: b6d8477749bf0f140a042457b333fa69, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 1251478164370057221, guid: b6d8477749bf0f140a042457b333fa69, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -13.997875
+      objectReference: {fileID: 0}
+    - target: {fileID: 1251478164370057221, guid: b6d8477749bf0f140a042457b333fa69, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 26.608137
+      objectReference: {fileID: 0}
+    - target: {fileID: 1251478164370057221, guid: b6d8477749bf0f140a042457b333fa69, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1251478164370057221, guid: b6d8477749bf0f140a042457b333fa69, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1251478164370057221, guid: b6d8477749bf0f140a042457b333fa69, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0000014603136
+      objectReference: {fileID: 0}
+    - target: {fileID: 1251478164370057221, guid: b6d8477749bf0f140a042457b333fa69, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1251478164370057221, guid: b6d8477749bf0f140a042457b333fa69, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1251478164370057221, guid: b6d8477749bf0f140a042457b333fa69, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1251478164370057221, guid: b6d8477749bf0f140a042457b333fa69, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2377414939301808275, guid: b6d8477749bf0f140a042457b333fa69, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: bc2b119ad01b511439999f331b402449, type: 2}
+    - target: {fileID: 8318535624869239019, guid: b6d8477749bf0f140a042457b333fa69, type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 4422084297763085224, guid: 0000000000000000d000000000000000, type: 0}
+    - target: {fileID: 8318535624869239019, guid: b6d8477749bf0f140a042457b333fa69, type: 3}
+      propertyPath: m_Name
+      value: Pivot cabinet swing R Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817718293324165780, guid: b6d8477749bf0f140a042457b333fa69, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.46766466
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817718293324165780, guid: b6d8477749bf0f140a042457b333fa69, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.22008044
+      objectReference: {fileID: 0}
+    - target: {fileID: 9180289886412073476, guid: b6d8477749bf0f140a042457b333fa69, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 31eb3202b9990394e99aeb4728eb9130, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8477749bf0f140a042457b333fa69, type: 3}

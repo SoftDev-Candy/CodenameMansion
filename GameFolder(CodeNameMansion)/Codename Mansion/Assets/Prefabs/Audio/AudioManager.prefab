@@ -1,0 +1,305 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3022974152413866454
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4277998294399188470}
+  - component: {fileID: 6354613064466088544}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4277998294399188470
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3022974152413866454}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 26.882915, y: -19.029144, z: 14.449869}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2304184267374679871}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6354613064466088544
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3022974152413866454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1afb9b67cbe898848b2e3d616c21b9c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  masterVolume: 1
+  musicVolume: 1
+  ambienceVolume: 1
+  SFXVolume: 1
+--- !u!1 &4006309732861448753
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2304184267374679871}
+  - component: {fileID: 7793033812274415961}
+  m_Layer: 0
+  m_Name: FMODEvents
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2304184267374679871
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4006309732861448753}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4277998294399188470}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7793033812274415961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4006309732861448753}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b162a9651fa69da409b58991319e516c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <ambience>k__BackingField:
+    Guid:
+      Data1: 924779374
+      Data2: 1177088150
+      Data3: 1218761356
+      Data4: 1514259920
+    Path: event:/Ambience/WeatherAmbience
+  <mainTheme>k__BackingField:
+    Guid:
+      Data1: -1748977713
+      Data2: 1107401864
+      Data3: -2029686851
+      Data4: 1536763388
+    Path: event:/Music/MainTheme
+  <mainMenuTheme>k__BackingField:
+    Guid:
+      Data1: -2142063372
+      Data2: 1334158605
+      Data3: 1766598062
+      Data4: -452462894
+    Path: event:/Music/MenuMusic
+  <click>k__BackingField:
+    Guid:
+      Data1: 1416995160
+      Data2: 1195800510
+      Data3: -881766247
+      Data4: -976162081
+    Path: event:/Menu/Click
+  <hover>k__BackingField:
+    Guid:
+      Data1: -2100531772
+      Data2: 1139929588
+      Data3: -1442849145
+      Data4: -303569456
+    Path: event:/Menu/Hover
+  <playerFootsteps>k__BackingField:
+    Guid:
+      Data1: 1171528861
+      Data2: 1197683993
+      Data3: 1520258693
+      Data4: -98975158
+    Path: event:/Player/PlayerFootsteps
+  <playerDeath>k__BackingField:
+    Guid:
+      Data1: -1412925710
+      Data2: 1200527388
+      Data3: -1680307271
+      Data4: 960695684
+    Path: event:/Combat/PlayerDead
+  <monsterDead>k__BackingField:
+    Guid:
+      Data1: 1413944950
+      Data2: 1146363537
+      Data3: -1806668380
+      Data4: -1162983007
+    Path: event:/Combat/MonsterDead
+  <monsterKillingPlayer>k__BackingField:
+    Guid:
+      Data1: 2043611754
+      Data2: 1168006580
+      Data3: 1248960700
+      Data4: 947342835
+    Path: event:/Combat/MonsterAttack
+  <monsterFootstep>k__BackingField:
+    Guid:
+      Data1: -1246305499
+      Data2: 1174216351
+      Data3: -1712589641
+      Data4: 589735055
+    Path: event:/Monster/MonsterFootsteps
+  <chain>k__BackingField:
+    Guid:
+      Data1: -1279929980
+      Data2: 1223948140
+      Data3: 662599306
+      Data4: 923211217
+    Path: event:/Entrance/Chain
+  <pickUp>k__BackingField:
+    Guid:
+      Data1: 853126584
+      Data2: 1133050837
+      Data3: -1869457535
+      Data4: -600088200
+    Path: event:/Inventory/PickUp
+  <pickUpKey>k__BackingField:
+    Guid:
+      Data1: 1544074893
+      Data2: 1117535240
+      Data3: 662463134
+      Data4: -226402190
+    Path: event:/General/PickUpKey
+  <boltCutterPickUp>k__BackingField:
+    Guid:
+      Data1: 460627222
+      Data2: 1105624705
+      Data3: -808201537
+      Data4: -1808704206
+    Path: event:/Entrance/BoltCutter
+  <cakeElevatorCrash>k__BackingField:
+    Guid:
+      Data1: -746364051
+      Data2: 1075847027
+      Data3: -11196032
+      Data4: 677748008
+    Path: event:/Kitchen/FoodElevator Crash
+  <handleCake>k__BackingField:
+    Guid:
+      Data1: -1560898982
+      Data2: 1184846403
+      Data3: -295608949
+      Data4: 176535955
+    Path: event:/Kitchen/HandleCake
+  <handleButton>k__BackingField:
+    Guid:
+      Data1: -1324994515
+      Data2: 1104680779
+      Data3: -607290488
+      Data4: 1981124701
+    Path: event:/Bedroom/LargeButton
+  <openDoor>k__BackingField:
+    Guid:
+      Data1: 1113036556
+      Data2: 1170477753
+      Data3: 456909471
+      Data4: 1231006735
+    Path: event:/General/OpenDoor
+  <closeDoor>k__BackingField:
+    Guid:
+      Data1: -2006085473
+      Data2: 1195396402
+      Data3: 562183338
+      Data4: 1650241776
+    Path: event:/General/CloseDoor
+  <locks>k__BackingField:
+    Guid:
+      Data1: 1449354575
+      Data2: 1254412715
+      Data3: 571036045
+      Data4: 174920852
+    Path: event:/General/Locks
+  <closetDoor>k__BackingField:
+    Guid:
+      Data1: 1155613829
+      Data2: 1220921630
+      Data3: 1148055482
+      Data4: -1698271109
+    Path: event:/Bedroom/ClosetDoor
+  <mergeSucces>k__BackingField:
+    Guid:
+      Data1: 1109612192
+      Data2: 1227108297
+      Data3: -1178455163
+      Data4: -854911259
+    Path: event:/Inventory/MergeSuccess
+  <mergeFailed>k__BackingField:
+    Guid:
+      Data1: 1193149982
+      Data2: 1249033195
+      Data3: 1322195107
+      Data4: 809912919
+    Path: event:/Inventory/MergeFailed
+  <gunShooting>k__BackingField:
+    Guid:
+      Data1: -1794725463
+      Data2: 1274708162
+      Data3: -1753062742
+      Data4: -1395003602
+    Path: event:/Combat/Gunshot
+  <gunLoading>k__BackingField:
+    Guid:
+      Data1: 730308387
+      Data2: 1290118897
+      Data3: 1509138356
+      Data4: 575377839
+    Path: event:/General/LoadGun
+  <gunPickUp>k__BackingField:
+    Guid:
+      Data1: 1956066661
+      Data2: 1241006449
+      Data3: 1745336227
+      Data4: -1083274499
+    Path: event:/Entrance/PickUpGun
+  <ammoPickUp>k__BackingField:
+    Guid:
+      Data1: -2057829765
+      Data2: 1192295918
+      Data3: -2092856407
+      Data4: 270915913
+    Path: event:/Bedroom/PickUpAmunition
+  <ingredient>k__BackingField:
+    Guid:
+      Data1: -363183094
+      Data2: 1147426757
+      Data3: 1971910546
+      Data4: 1501464754
+    Path: event:/Kitchen/Ingredients
+  <grabBowl>k__BackingField:
+    Guid:
+      Data1: -492576764
+      Data2: 1171030958
+      Data3: -559588705
+      Data4: -981326158
+    Path: event:/Kitchen/GrabBowl
+  <stoveHandle>k__BackingField:
+    Guid:
+      Data1: 1521004709
+      Data2: 1110546398
+      Data3: -1956588137
+      Data4: 1146005514
+    Path: event:/Kitchen/Stove

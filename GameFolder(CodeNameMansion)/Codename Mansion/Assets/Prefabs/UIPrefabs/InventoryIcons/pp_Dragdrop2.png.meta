@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 4a04af17064ff874291060e9682cb7cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7025927517148715528
+    second: pp_Dragdrop2_0
+  - first:
+      213: 7019935328303601053
+    second: pp_Dragdrop2_1
+  - first:
+      213: -708133037444577971
+    second: pp_Dragdrop2_2
+  - first:
+      213: -2430644234574547926
+    second: pp_Dragdrop2_3
+  - first:
+      213: 3732386727938973463
+    second: pp_Dragdrop2_4
+  - first:
+      213: 6038407864745827263
+    second: pp_Dragdrop2_5
+  - first:
+      213: 4936699926819047288
+    second: pp_Dragdrop2_6
+  - first:
+      213: -1213622415170693501
+    second: pp_Dragdrop2_7
+  - first:
+      213: -4374083318578998766
+    second: pp_Dragdrop2_8
+  - first:
+      213: 627258877878262796
+    second: pp_Dragdrop2_9
+  - first:
+      213: 7991434797997536071
+    second: pp_Dragdrop2_10
+  - first:
+      213: -3177035979686857305
+    second: pp_Dragdrop2_11
+  - first:
+      213: 9022377165174435949
+    second: pp_Dragdrop2_12
+  - first:
+      213: 2229813786488703185
+    second: pp_Dragdrop2_13
+  - first:
+      213: 1393667205548876307
+    second: pp_Dragdrop2_14
+  - first:
+      213: -3529390210479765911
+    second: pp_Dragdrop2_15
+  - first:
+      213: 6064969115857701668
+    second: pp_Dragdrop2_16
+  - first:
+      213: 7374687929729861595
+    second: pp_Dragdrop2_17
+  - first:
+      213: 8081130090060003369
+    second: pp_Dragdrop2_18
+  - first:
+      213: -3729339630606561530
+    second: pp_Dragdrop2_19
+  - first:
+      213: 7500130679869483210
+    second: pp_Dragdrop2_20
+  - first:
+      213: -3659948794925035019
+    second: pp_Dragdrop2_21
+  - first:
+      213: -4424845890076417128
+    second: pp_Dragdrop2_22
+  - first:
+      213: 4676563967066838948
+    second: pp_Dragdrop2_23
+  - first:
+      213: -8888001137119656915
+    second: pp_Dragdrop2_24
+  - first:
+      213: 3363271630364866815
+    second: pp_Dragdrop2_25
+  - first:
+      213: 779901243139515981
+    second: pp_Dragdrop2_26
+  - first:
+      213: -6250447074493741363
+    second: pp_Dragdrop2_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pp_Dragdrop2_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 846
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f565bae524ee7e90800000000000000
+      internalID: -7025927517148715528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 865
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9550c5ecf1db6160800000000000000
+      internalID: 7019935328303601053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 865
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45c56911c43c26f0800000000000000
+      internalID: -708133037444577971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 865
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2435de52fd944ed0800000000000000
+      internalID: -2430644234574547926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 865
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f5f2b34f91cc330800000000000000
+      internalID: 3732386727938973463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 865
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb991bc5fbbcc350800000000000000
+      internalID: 6038407864745827263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 865
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8770fbc7d6ea28440800000000000000
+      internalID: 4936699926819047288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_7
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 865
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3869c4ce7d8582fe0800000000000000
+      internalID: -1213622415170693501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 865
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212132a85622c43c0800000000000000
+      internalID: -4374083318578998766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_9
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 865
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cd42640a874b800800000000000000
+      internalID: 627258877878262796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 844
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743b65cbb9747ee60800000000000000
+      internalID: 7991434797997536071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 794
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a53120fb96e8e3d0800000000000000
+      internalID: -3177035979686857305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_12
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 790
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6071d7aa3ce53d70800000000000000
+      internalID: 9022377165174435949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 730
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d88de223d3e1fe10800000000000000
+      internalID: 2229813786488703185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 563
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3122ad180fc475310800000000000000
+      internalID: 1393667205548876307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_15
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 726
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966cc969d46150fc0800000000000000
+      internalID: -3529390210479765911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 666
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bc96cf6491b2450800000000000000
+      internalID: 6064969115857701668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 199
+        width: 438
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7c8ec6997285660800000000000000
+      internalID: 7374687929729861595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 216
+        width: 589
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9283fb15001f52070800000000000000
+      internalID: 8081130090060003369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 602
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fc8e66d59be3cc0800000000000000
+      internalID: -3729339630606561530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 538
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac821aead11d51860800000000000000
+      internalID: 7500130679869483210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 474
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1df5656ff353dc0800000000000000
+      internalID: -3659948794925035019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_22
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 183
+        width: 351
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893e5285b1ac792c0800000000000000
+      internalID: -4424845890076417128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7196a862e76e040800000000000000
+      internalID: 4676563967066838948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 399
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2407b27e0a77a480800000000000000
+      internalID: -8888001137119656915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_25
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 117
+        width: 245
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8fb0b7abdbcae20800000000000000
+      internalID: 3363271630364866815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 98
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46673d6c04c2da00800000000000000
+      internalID: 779901243139515981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_Dragdrop2_27
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 53
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6cb658083f149a0800000000000000
+      internalID: -6250447074493741363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pp_Dragdrop2_0: -7025927517148715528
+      pp_Dragdrop2_1: 7019935328303601053
+      pp_Dragdrop2_10: 7991434797997536071
+      pp_Dragdrop2_11: -3177035979686857305
+      pp_Dragdrop2_12: 9022377165174435949
+      pp_Dragdrop2_13: 2229813786488703185
+      pp_Dragdrop2_14: 1393667205548876307
+      pp_Dragdrop2_15: -3529390210479765911
+      pp_Dragdrop2_16: 6064969115857701668
+      pp_Dragdrop2_17: 7374687929729861595
+      pp_Dragdrop2_18: 8081130090060003369
+      pp_Dragdrop2_19: -3729339630606561530
+      pp_Dragdrop2_2: -708133037444577971
+      pp_Dragdrop2_20: 7500130679869483210
+      pp_Dragdrop2_21: -3659948794925035019
+      pp_Dragdrop2_22: -4424845890076417128
+      pp_Dragdrop2_23: 4676563967066838948
+      pp_Dragdrop2_24: -8888001137119656915
+      pp_Dragdrop2_25: 3363271630364866815
+      pp_Dragdrop2_26: 779901243139515981
+      pp_Dragdrop2_27: -6250447074493741363
+      pp_Dragdrop2_3: -2430644234574547926
+      pp_Dragdrop2_4: 3732386727938973463
+      pp_Dragdrop2_5: 6038407864745827263
+      pp_Dragdrop2_6: 4936699926819047288
+      pp_Dragdrop2_7: -1213622415170693501
+      pp_Dragdrop2_8: -4374083318578998766
+      pp_Dragdrop2_9: 627258877878262796
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

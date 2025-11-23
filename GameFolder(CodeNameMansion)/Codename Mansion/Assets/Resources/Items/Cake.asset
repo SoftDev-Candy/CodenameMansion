@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2d48ba31655f4a4e8839550b17c3fd6, type: 3}
+  m_Name: Cake
+  m_EditorClassIdentifier: 
+  Item:
+    ID: 3
+    Name: Cake
+    Description: I wonder if its telling the truth.
+    CanBeCombined: 0
+    CombinedItemId: 0
+    resultItemId: 0
+    Icon: {fileID: 21300000, guid: 32607fc009808b74f8ab88bb183f8f29, type: 3}
+    itemObject: {fileID: 0}
