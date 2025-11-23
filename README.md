@@ -4,6 +4,7 @@ You play as Alex, who receives a strange letter from his uncle urging him to vis
 
 ##🛠 About the Project
 CodenameMansion was created in Unity by a team of 17 people over the course of 4 weeks.
+
 **I worked on:**
 UI implementation (inventory layout, interaction prompts, and general UI flow)
 Camera switching system for different rooms and interaction angles
@@ -12,19 +13,14 @@ General scripting support across different gameplay systems
 This project helped me understand teamwork, communication, and writing clean scripts that fit well into a larger workflow.
 
 ##🖱 Controls
-
 Left Click – Interact / Select
 Right Click – Inspect / Cancel
 Drag – Move items / Combine objects
 
 ##🧩 General Tips for Players
-
 Click on everything — you never know what might be useful
-
 Try dragging items onto the character for interactions
-
 Combine items by dragging them into the inventory
-
 Pay close attention to clues; everything is connected
 
 ##👥 Team – Escape Artists
@@ -55,20 +51,22 @@ Johan Samuelsson
 Eskil Martin
 
 🧪 QA / Game Tester
-
 Ville Emanuelsson
 
-## 🎞 Gameplay & Preview
+👧 Product Owner
+Athena Tran
 
-### GIFs
-![Puzzle GIF](./sim/F164Cn.gif)
-![Interaction GIF](./sim/IhWCWB.gif)
+## 🖼 Gameplay Preview
 
-### Screenshot
-![Mansion Screenshot](./sim/pPF9nA.png)
+### 🔹 GIF Previews
+<p align="center">
+  <img src="./GameFolder(CodeNameMansion)/Codename Mansion/sim/F164Cn.gif" width="350" />
+  <img src="./GameFolder(CodeNameMansion)/Codename Mansion/sim/IhWCWB.gif" width="350" />
+</p>
+
+### 🔹 Screenshot
+<p align="center">
+  <img src="./GameFolder(CodeNameMansion)/Codename Mansion/sim/pPF9nA.png" width="500" />
+</p>
 
 ##Check the game out on itchio --- https://futuregames.itch.io/secretsofthemansion
-
-👧 Product Owner
-
-Athena Tran
