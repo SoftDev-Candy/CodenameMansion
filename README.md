@@ -58,6 +58,17 @@ Eskil Martin
 
 Ville Emanuelsson
 
+## 🎞 Gameplay & Preview
+
+### GIFs
+![Puzzle GIF](./sim/F164Cn.gif)
+![Interaction GIF](./sim/IhWCWB.gif)
+
+### Screenshot
+![Mansion Screenshot](./sim/pPF9nA.png)
+
+##Check the game out on itchio --- https://futuregames.itch.io/secretsofthemansion
+
 👧 Product Owner
 
 Athena Tran
